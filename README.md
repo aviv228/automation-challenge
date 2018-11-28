@@ -1,4 +1,4 @@
-# selenium-project-test
+# automation-challenge
 This project is written in java using Selenium and Maven, and there are two tests which one of them is with JUnit.
 Everything is set up and more tests can be added straight away.
 
